@@ -16,7 +16,7 @@
             "dest": "/media/$1"
         },
         {
-            "src": "(.*)",
+            "src": "/(.*)",
             "dest": "physilab/wsgi.py"
         }
     ]
